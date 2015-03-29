@@ -1,0 +1,5 @@
+2015-03-27 19:44:26 ERROR LogDemo:24 - start
+2015-03-27 19:44:26 DEBUG LogDemo:25 - ----
+2015-03-27 19:44:26 WARN  LogDemo:26 - ----
+2015-03-27 19:44:26 INFO  LogDemo:27 - -----
+2015-03-27 19:44:26 ERROR LogDemo:29 - end
