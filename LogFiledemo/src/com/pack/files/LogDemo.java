@@ -18,7 +18,7 @@ public class LogDemo {
 	{
 		//Assign runtime names for log folder and file.
        
-        System.setProperty("logfoldername",System.getProperty("java.io.tmpdir")+logfolderName);
+        System.setProperty("logfoldername",logfolderName);
 		System.setProperty("logfilename", logfileName);
 	}
 	static void display()
