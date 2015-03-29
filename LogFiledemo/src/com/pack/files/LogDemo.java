@@ -17,7 +17,7 @@ public class LogDemo {
 	static void getValueForLogFile()
 	{
 		//Assign runtime names for log folder and file.
-       
+       //hello by kamlesh
         System.setProperty("logfoldername",logfolderName);
 		System.setProperty("logfilename", logfileName);
 	}
